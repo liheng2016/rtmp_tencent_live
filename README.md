@@ -3,6 +3,7 @@
 
 腾讯直播flutter插件
 
+承接各种前端项目，flutter App项目<br />
 有问题欢迎提issues，或者欢迎加入flutter腾讯直播，群聊号码：1128573542
 
 ### 安装
@@ -112,3 +113,10 @@ TencentVideoLive(
 |   恢复播放    |   ✅   |          resume()          |                              |
 |   视频截图    |   ✅   |       screenCapture()      |       视频截图保存到本地        |
 |   停止播放    |   ✅   |         stopPlay()         |                              |
+
+### 如果你喜欢这个插件，可以请作者喝杯咖啡
+
+<div style="display: float;">
+  <img src="https://github.com/zhengzhuang96/rtmp_tencent_live/blob/master/assets/alipay.jpeg" width="200" alt="支付宝"/>
+  <img src="https://github.com/zhengzhuang96/rtmp_tencent_live/blob/master/assets/wxapy.jpeg" width="200" alt="微信"/>
+</div>
